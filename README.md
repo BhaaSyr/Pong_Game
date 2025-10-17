@@ -8,7 +8,7 @@ A simple table tennis game built using **Java Swing** and form-based UI.
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/username/MySnakeGame.git
+   git clone https://github.com/username/Table-tennis-game-2d.git
 2. **Open the Project in NetBeans**
    - Open NetBeans IDE 
 

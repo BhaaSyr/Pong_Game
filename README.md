@@ -1,6 +1,6 @@
 # 🏓 Simple table tennis 2d Game (Java Swing)
 
-A simple Snake game built using **Java Swing** and form-based UI.
+A simple table tennis game built using **Java Swing** and form-based UI.
 
 ---
 
